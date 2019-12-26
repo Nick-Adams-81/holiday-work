@@ -1,0 +1,11 @@
+body{
+    background-color: whitesmoke;
+}
+.jumbotron{
+    background-color: rgba(228, 230, 122, 0.295);
+}
+footer{
+    text-align: center;
+    background-color:black;
+    color: green;
+}
