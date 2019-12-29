@@ -9,10 +9,28 @@ body{
     background-color:yellow;
     color: green;
 }
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 60px;
+    font-family: poster bodoni;
+    letter-spacing: -2px;
+   
+    
+    color: yellow;
+}
 h2{
     color: whitesmoke;
+    font-family: poster bodoni;
 
 }
+h3{
+    color: whitesmoke;
+}
+
 p{
+    color: whitesmoke;
+}
+li{
     color: whitesmoke;
 }
